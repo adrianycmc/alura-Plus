@@ -49,7 +49,7 @@ Para contribuir com Alura Plus, siga estas etapas:
 <br>
 <br>
 
-## 📜 Certificado do curso
+## 📜 Certificado do curso que fiz para desenvolver este projeto
 🚧 Em construção
 <br>
 <br>
