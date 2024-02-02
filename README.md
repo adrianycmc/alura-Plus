@@ -47,7 +47,7 @@ Para contribuir com Alura Plus, siga estas etapas:
 
 ## 🔎 Detalhes do projeto
 
-😄 Este é um projeto de cunho educacional e faz parte da formação: "A partir do zero: HTML e CSS para projetos web" da Alura.
+📌 Este é um projeto de cunho educacional e faz parte da formação: **"A partir do zero: HTML e CSS para projetos web"** da Alura.
 <br>
 <br>
 
