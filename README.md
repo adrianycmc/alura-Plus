@@ -1,5 +1,3 @@
-
-
 <div align="center">
 <img height=300 src="https://raw.githubusercontent.com/adrianycmc/alura-Plus/a56e0d6f0a4a7128043d33b62abb057e937bbda1/img/Telas.png" height=120px>
 </div>
@@ -30,7 +28,7 @@ Este projeto tem como objetivo desenvolver a página "Alura Plus" recebendo o de
 <br>
 
 ## 🌐 Página
-
+🚧 Em construção
 <br>
 <br>
 
@@ -48,6 +46,11 @@ Para contribuir com Alura Plus, siga estas etapas:
 ## 🔎 Detalhes do projeto
 
 📌 Este é um projeto de cunho educacional e faz parte da formação: **"A partir do zero: HTML e CSS para projetos web"** da Alura.
+<br>
+<br>
+
+## 📜 Certificado do curso
+🚧 Em construção
 <br>
 <br>
 
