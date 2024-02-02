@@ -43,11 +43,16 @@ Para contribuir com Alura Plus, siga estas etapas:
 3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
 4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
 5. Crie a solicitação de pull.
+<br>
 
-😄 Este é um projeto de cunho educacional, sinta-se a vontade para contribuir. 
+## 🔎 Detalhes do projeto
+
+😄 Este é um projeto de cunho educacional e faz parte da formação: "A partir do zero: HTML e CSS para projetos web" da Alura.
+<br>
+<br>
 
 <p align="left">
-  Caso queira trocar uma ideia comigo: ⤵️
+  Caso queira trocar entrar em contato: ⤵️
 </p>
 
 <p align="left">
