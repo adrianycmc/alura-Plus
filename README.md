@@ -20,7 +20,7 @@ Este projeto tem como objetivo desenvolver a página "Alura Plus" recebendo o de
 <br>
 
 ## 🌐 Página
-🚧 Em construção
+[Alura Plus](https://alura-plus-orcin-seven.vercel.app/#)
 <br>
 <br>
 
