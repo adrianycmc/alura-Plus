@@ -42,7 +42,7 @@ Para contribuir com Alura Plus, siga estas etapas:
 <br>
 
 ## 📜 Certificado do curso que fiz para desenvolver este projeto
-🚧 Em construção
+[HTML e CSS: Praticando HTML e CSS](https://cursos.alura.com.br/certificate/adrianycmc/html-css-praticando-html-css)
 <br>
 <br>
 
